@@ -164,6 +164,9 @@ a.button span {
 #view-on-github {
   margin-right: 0;
 }
+#view-my-resume {
+  margin-right: 100;
+}
 
 code, pre {
   margin-bottom: 30px;
