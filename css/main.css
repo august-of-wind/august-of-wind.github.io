@@ -55,10 +55,9 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
 body {
-    background-color: ;
     color: white;
-    background-color: #0066FF;
 }
 
 
@@ -108,9 +107,9 @@ li {
 .jumbotron {
     padding-top: 5%;
     padding-bottom: 10%; 
-    background-color: #0066FF;
     text-align: center;
     height: 100px;
+    color: black;
 }
 
 
