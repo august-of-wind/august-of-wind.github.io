@@ -79,29 +79,20 @@ li {
 }
 
 .links {
-    color: white;
+    color: black;
     padding-bottom: 0px;
+
 }
 
-.link1 {
-    float: left;
-    padding-left: 31%;
-    padding-right: 5%;
+.links ul li{
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    list-style-type: none;
 }
 
-.link2 {
-    float: left;
-    padding-right: 5%;
-}
-
-.link3 {
-    float: left;
-    padding-right: 5%;
-}
-
-.link4 {
-    float: left;
-    padding-right: 31%;
+ul{
+    padding: none;
 }
 
 .jumbotron {
